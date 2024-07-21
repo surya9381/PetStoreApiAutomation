@@ -1,0 +1,18 @@
+[INFO ] 2024-07-20 21:48:42.747 [main] UserTests - ********** creating user **********
+[INFO ] 2024-07-20 21:48:46.939 [main] UserTests - ************ User created ***********
+[INFO ] 2024-07-20 21:48:46.950 [main] UserTests - ************ reading user ***********
+[INFO ] 2024-07-20 21:48:48.695 [main] UserTests - ************ updating user ***********
+[INFO ] 2024-07-20 21:48:50.268 [main] UserTests - ************ deleting user ***********
+[INFO ] 2024-07-20 21:58:45.765 [main] UserTests - ********** creating user **********
+[INFO ] 2024-07-20 21:58:49.434 [main] UserTests - ************ User created ***********
+[INFO ] 2024-07-20 21:58:49.446 [main] UserTests - ************ reading user ***********
+[INFO ] 2024-07-20 21:58:51.194 [main] UserTests - ************ updating user ***********
+[INFO ] 2024-07-20 21:58:52.705 [main] UserTests - ************ deleting user ***********
+[INFO ] 2024-07-20 23:45:41.588 [main] UserTests2 - ********** creating user **********
+[INFO ] 2024-07-20 23:45:45.135 [main] UserTests2 - ************ User created ***********
+[INFO ] 2024-07-20 23:45:45.144 [main] UserTests2 - ************ reading user ***********
+[INFO ] 2024-07-20 23:45:46.654 [main] UserTests2 - ************ user details displayed ***********
+[INFO ] 2024-07-20 23:45:46.670 [main] UserTests2 - ************ updating user ***********
+[INFO ] 2024-07-20 23:45:48.188 [main] UserTests2 - ************ User updated ***********
+[INFO ] 2024-07-20 23:45:49.737 [main] UserTests2 - ************ deleting user ***********
+[INFO ] 2024-07-20 23:45:51.077 [main] UserTests2 - ************ User deleted ***********
